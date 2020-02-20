@@ -7,6 +7,8 @@ entries:
     folderitems:
       - title: Introduction
         url: /android_introduction.html
+      - title: Charter Document
+        url: /android_charter.html
       - title: API Design
         url: /android_design.html
       - title: Implementation
@@ -33,4 +35,3 @@ entries:
         url: /policies_releasenotes.html
       - title: Registered Namespaces
         url: /registered_namespaces.html
-
